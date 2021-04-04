@@ -1,4 +1,4 @@
-# Pemrograman Web Lanjutan TI - Pratikum 1
+# Pemrograman Web Lanjutan TI - Praktikum 3
 
 STT Terpadu Nurul Fikri\
 
